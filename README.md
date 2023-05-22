@@ -1,11 +1,11 @@
-# Catapult
+# Catapulte
 Dépôt créé pour stocker le projet développé pour le TP C++.
 
 Les codes présentés ici sont complémentaires au maquette de la catapulte. Celle-ci a pour objectif de frapper la balle de ping-pong dans un verre positionné à différentes distances de la maquette.
 
 ## Chargement du code sur la carte
 
-Pour exécuter le code, il est nécessaire d'ouvrir le fichier nommé "Main.ino", disponible dans le dossier "Main", sur l'interface Arduino. Ensuite, il suffit de charger le code "Main" sur le module utilisé.
+Pour exécuter le code, il est nécessaire d'ouvrir le fichier nommé "Main.ino", disponible dans le dossier "Main", sur l'interface *Arduino*. Ensuite, il suffit de charger le code "Main" sur le module utilisé.
 
 Il est important que l'utilisateur ait activé les exceptions dans l'interface Arduino, pour que le code fonctionne correctement. Pour activer les exceptions, il suffit de suivre l'image ci-dessous :
 
@@ -19,11 +19,11 @@ En cliquant sur le bouton, l'utilisateur peut ouvrir et fermer le verrou de la c
 
 Dans le cas où le bras mobile est libre et que le verrou est ouverte
 
-1- L'utilisateur doit tourner le potentiomètre jusqu'à ce qu'il atteigne l'étirement minimum possible de l'élastique (dans le cas où il n'est pas au minimum). 
-2- L'utilisateur doit abaisser le bras mobile de la catapulte jusqu'à une position inférieure à le verrou et cliquer sur le bouton pour fermer le verrou.
-3- L'utilisateur place la balle de ping-pong sur le bouchon de bouteille fixé au bras.
-4- L'utilisateur tourne le potentiomètre pour tendre l'élastique.
-5- L'utilisateur clique sur le bouton pour ouvrir le verrou et lancer la balle.
+1. L'utilisateur doit tourner le potentiomètre jusqu'à ce qu'il atteigne l'étirement minimum possible de l'élastique (dans le cas où il n'est pas au minimum). 
+2. L'utilisateur doit abaisser le bras mobile de la catapulte jusqu'à une position inférieure à le verrou et cliquer sur le bouton pour fermer le verrou.
+3. L'utilisateur place la balle de ping-pong sur le bouchon de bouteille fixé au bras.
+4. L'utilisateur tourne le potentiomètre pour tendre l'élastique.
+5. L'utilisateur clique sur le bouton pour ouvrir le verrou et lancer la balle.
 
 Si le bras mobile est lâche, mais que le verrou est fermée, avant l'étape 1, l'utilisateur doit ouvrir la serrure en appuyant sur le bouton.
 
