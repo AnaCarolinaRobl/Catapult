@@ -8,6 +8,7 @@ Les codes présentés ici sont complémentaires au maquette de la catapulte. Cel
 Pour exécuter le code, il est nécessaire d'ouvrir le fichier nommé "Main.ino", disponible dans le dossier "Main", sur l'interface *Arduino*. Ensuite, il suffit de charger le code "Main" sur le module utilisé.
 
 Il est important que l'utilisateur ait activé les exceptions dans l'interface Arduino, pour que le code fonctionne correctement. Pour activer les exceptions, il suffit de suivre l'image ci-dessous :
+![image](https://github.com/AnaCarolinaRobl/Catapult/assets/80722112/c63c526b-5e16-467c-b386-089f97365de9)
 
 
 ## Fonctionnement de la maquette
