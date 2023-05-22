@@ -14,3 +14,18 @@ Il est important que l'utilisateur ait activé les exceptions dans l'interface A
 
 En réglant le potentiomètre, l'utilisateur peut modifier l'étirement de l'élastique par le moteur, ce qui augmente (plus l'élastique est étiré) la distance à parcourir pour lancer la balle.
 En cliquant sur le bouton, l'utilisateur peut ouvrir et fermer le verrou de la catapulte.
+
+### Instructions pas à pas
+
+Dans le cas où le bras mobile est libre et que le verrou est ouverte
+
+1- L'utilisateur doit tourner le potentiomètre jusqu'à ce qu'il atteigne l'étirement minimum possible de l'élastique (dans le cas où il n'est pas au minimum). 
+2- L'utilisateur doit abaisser le bras mobile de la catapulte jusqu'à une position inférieure à le verrou et cliquer sur le bouton pour fermer le verrou.
+3- L'utilisateur place la balle de ping-pong sur le bouchon de bouteille fixé au bras.
+4- L'utilisateur tourne le potentiomètre pour tendre l'élastique.
+5- L'utilisateur clique sur le bouton pour ouvrir le verrou et lancer la balle.
+
+Si le bras mobile est lâche, mais que le verrou est fermée, avant l'étape 1, l'utilisateur doit ouvrir la serrure en appuyant sur le bouton.
+
+Si le bras est déjà verrouillé par le verrou, l'utilisateur doit commencer par l'étape 3.
+
