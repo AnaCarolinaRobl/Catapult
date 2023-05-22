@@ -29,3 +29,12 @@ Si le bras mobile est lâche, mais que le verrou est fermée, avant l'étape 1, 
 
 Si le bras est déjà verrouillé par le verrou, l'utilisateur doit commencer par l'étape 3.
 
+## Important
+
+Après avoir chargé le code, l'utilisateur doit laisser le module connecté à l'ordinateur pour alimenter le système.
+
+Le servomoteur qui contrôle la position de l'élastique est connecté au port D3, si vous voulez le changer, il est nécessaire de changer la constante "elasticPin" dans la ligne 7 du code principal.
+
+Le servomoteur qui contrôle si la catapulte est bloquée ou non est connecté au port D7, pour le changer il suffit de changer la constante "triggerPin", disponible à la ligne 9 du Podium Main.
+
+Le potentiomètre et le bouton sont connectés aux ports A0 et D8 respectivement, pour les changer il faut changer les constantes potPin et buttonPin, disponibles sur les lignes 10 et 11 du code Main.
