@@ -10,7 +10,7 @@ Pour exécuter le code, il est nécessaire d'ouvrir le fichier nommé "Main.ino"
 Il est important que l'utilisateur ait activé les exceptions dans l'interface Arduino, pour que le code fonctionne correctement. Pour activer les exceptions, il suffit de suivre l'image ci-dessous :
 
 <p align="center">
-  <img src="https://github.com/AnaCarolinaRobl/Catapult/assets/80722112/c63c526b-5e16-467c-b386-089f97365de9" width="400" height="350" />
+  <img src="https://github.com/AnaCarolinaRobl/Catapult/assets/80722112/c4c89094-3208-4a7d-b495-26d2fd30d997" width="400" height="200" />
 </p>
 
 ## Fonctionnement de la maquette
