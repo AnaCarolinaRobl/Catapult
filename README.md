@@ -1,4 +1,9 @@
 # Catapulte
+
+<p align="center">
+  <img src="https://github.com/AnaCarolinaRobl/Catapulte/assets/80722112/739bc98d-3570-4ec2-bdef-f0239f61c9e7" width="683" height="512" />
+</p>
+
 Dépôt créé pour stocker le projet développé pour le TP C++.
 
 Les codes présentés ici sont complémentaires au maquette de la catapulte. Celle-ci a pour objectif de frapper la balle de ping-pong dans un verre positionné à différentes distances de la maquette.
@@ -16,7 +21,7 @@ Il est important que l'utilisateur ait activé les exceptions dans l'interface A
 ## Fonctionnement de la maquette
 
 En réglant le potentiomètre, l'utilisateur peut modifier l'étirement de l'élastique par le moteur, ce qui augmente (plus l'élastique est étiré) la distance à parcourir pour lancer la balle.
-En cliquant sur le bouton, l'utilisateur peut ouvrir et fermer le verrou de la catapulte.
+En cliquant sur le bouton, l'utilisateur peut ouvrir et fermer le verrou (Trigger-Servo) de la catapulte.
 
 ### Instructions pas à pas
 
