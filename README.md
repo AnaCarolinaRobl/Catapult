@@ -1,7 +1,7 @@
 # Catapulte
 
 <p align="center">
-  <img src="https://github.com/AnaCarolinaRobl/Catapulte/assets/80722112/739bc98d-3570-4ec2-bdef-f0239f61c9e7" width="683" height="512" />
+  <img src="https://github.com/AnaCarolinaRobl/Catapulte/assets/80722112/739bc98d-3570-4ec2-bdef-f0239f61c9e7" width="342" height="256" />
 </p>
 
 Dépôt créé pour stocker le projet développé pour le TP C++.
